@@ -1,5 +1,5 @@
 {
-  "name": "secure-social",
+  "name": "extra-most-securest",
   "version": "1.0.0",
   "description": "The extra most securest social media platform in the universe.",
   "main": "app.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gaberust/secure-social.git"
+    "url": "git+https://github.com/gaberust/extra-most-securest.git"
   },
   "author": "Gabe Rust",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gaberust/secure-social/issues"
+    "url": "https://github.com/gaberust/extra-most-securest/issues"
   },
-  "homepage": "https://github.com/gaberust/secure-social#readme",
+  "homepage": "https://github.com/gaberust/extra-most-securest#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
