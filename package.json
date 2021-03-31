@@ -1,7 +1,7 @@
 {
   "name": "secure-social",
   "version": "1.0.0",
-  "description": "The most secure social media platform in the universe.",
+  "description": "The extra most securest social media platform in the universe.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
